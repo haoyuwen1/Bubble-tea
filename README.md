@@ -1,2 +1,2 @@
-# Bubble-tea
-Use Power BI to analysis the bubble tea sales
+# Superstore
+Use Power BI to analysis the data of superstore in the U.S.
